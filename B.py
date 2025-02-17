@@ -1,5 +1,7 @@
 def to_uppercase(input_string):
+
     print("kutay was here")
+    print("kutay özgün")
     return input_string.upper()
     
 
