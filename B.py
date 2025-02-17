@@ -1,4 +1,4 @@
 def to_uppercase(input_string):
-    print("kutay")
+    print("kutay özgün")
     return input_string.upper()
     
